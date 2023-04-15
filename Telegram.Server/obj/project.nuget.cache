@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9nqinvcmvcnLAEsHiY6oMvrpK/rPJY/XAE2a3A/YMx1tAXFNwFh68ufOZ09QnRkAffE1lp61JXjoHbx3lj7Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\code\\telegram\\Telegram.Server\\Telegram.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
